@@ -13,6 +13,6 @@ public class SumaTest {
      */
     @Test
     public void suma_test() {
-        assertEquals(6, Suma.suma(2, 3));
+        assertEquals(5, Suma.suma(2, 3));
     }
 }
